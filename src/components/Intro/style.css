@@ -1,0 +1,27 @@
+.intro-view {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background-color: black;
+    min-height: 920px;
+}
+.intro-content {
+    color: white;
+    padding-top: 5%;
+}
+.para-size {
+    font-size: 30px;
+    opacity: 70%;
+    transition: 0.3s;
+    text-align: center;
+    width: 53%;
+}
+.para-size:hover {
+    opacity: 100%;
+}
+.heading-item {
+    text-align: center;
+    font-size: 160px;
+    letter-spacing: 0px;
+    line-height: 90%;
+}
